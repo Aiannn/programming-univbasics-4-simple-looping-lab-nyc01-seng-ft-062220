@@ -11,6 +11,7 @@ def loop_message_n_times(string, integer)
   j=0 
   while j<integer do
     puts string
+    j+=1 
   end
 end   
 
